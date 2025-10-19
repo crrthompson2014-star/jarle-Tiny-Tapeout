@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-its a project that saves the world
+This is a complex logic chip designed to compute the same output value for all given inputs. 
 
 ## How to test
 
-Click 4 buttons 
+Supply a voltage to any input pin - the result should be conclusive. 
 
 ## External hardware
 
-magic
+None required. 
