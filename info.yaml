@@ -4,7 +4,7 @@ project:
   title:        "Jarle Chip"      # Project title
   author:       "Cole and Jarod"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "TBD"      # One line description of what your project does
+  description:  "Logic Conversion Circuit"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
@@ -16,14 +16,14 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: ""
-  ui[1]: ""
-  ui[2]: ""
-  ui[3]: ""
-  ui[4]: "or1"
-  ui[5]: "or2"
-  ui[6]: "mux1"
-  ui[7]: "mux2"
+  ui[0]: "Logic0"
+  ui[1]: "Logic0"
+  ui[2]: "Logic0"
+  ui[3]: "Logic0"
+  ui[4]: "Logic0"
+  ui[5]: "Logic0"
+  ui[6]: "Logic0"
+  ui[7]: "Logic0"
 
   # Outputs
   uo[0]: "A"
