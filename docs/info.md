@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This is a complex logic chip designed to compute the same output value for all given inputs. 
+This project counts in binary from 0 - 7 and converts it to the outputs for a 7-segment display with the push of a button.  
 
 ## How to test
 
-Supply a voltage to any input pin - the result should be conclusive. 
+Reset the counter by pulling pin 0 high, and add one to the counter by pulling the clock pin high. You should see the 7-segment display increment by one on each press of the button.   
 
 ## External hardware
 
-None required. 
+Two buttons and a single 7-segment display. 
