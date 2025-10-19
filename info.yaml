@@ -17,13 +17,13 @@ project:
 pinout:
   # Inputs
   ui[0]: "Logic0"
-  ui[1]: "Logic0"
-  ui[2]: "Logic0"
-  ui[3]: "Logic0"
-  ui[4]: "Logic0"
-  ui[5]: "Logic0"
-  ui[6]: "Logic0"
-  ui[7]: "Logic0"
+  ui[1]: "Logic1"
+  ui[2]: "Logic2"
+  ui[3]: "Logic3"
+  ui[4]: "Logic4"
+  ui[5]: "Logic5"
+  ui[6]: "Logic6"
+  ui[7]: "Logic7"
 
   # Outputs
   uo[0]: "A"
